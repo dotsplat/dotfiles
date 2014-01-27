@@ -2,4 +2,4 @@ if [ -f $HOME/.bashrc ]
 then
 	source ~/.bashrc
 else
-	echo "$HOME/.basrc doesn't exist ... good luck with that"
+	echo "$HOME/.bashrc doesn't exist ... good luck with that"
